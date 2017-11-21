@@ -1,0 +1,2 @@
+# NetrounBot
+A Discord Bot 
