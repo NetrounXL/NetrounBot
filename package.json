@@ -1,4 +1,4 @@
-Name:TNetrounbot-discord {
+Name:Netrounbot-discord {
 App:0.2.0 {
-main:index.htm; {
+main:bot.py; {
 }
