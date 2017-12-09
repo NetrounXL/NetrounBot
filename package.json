@@ -1,5 +1,0 @@
-Name:Netrounbot-discord {
-App:0.2.0 {
-main:bot.py;
-  main2:epg.dfg{
-}
